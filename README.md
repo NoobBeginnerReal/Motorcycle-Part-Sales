@@ -1,4 +1,5 @@
 # Motorcycle-Part-Sales
+![Parked motorcycle](motorcycle.jpg)
 
 You're working for a company that sells motorcycle parts, and they've asked for some help in analyzing their sales data!
 
