@@ -22,16 +22,3 @@ They have provided you with access to their database, which contains the followi
 | `payment` | `VARCHAR` | Payment method&mdash;`Credit card`, `Transfer`, or `Cash`. |
 | `payment_fee` | `FLOAT` | Percentage of `total` charged as a result of the `payment` method. |
 
-
-Your query output should be presented in the following format:
-
-| `product_line` | `month` | `warehouse` |	`net_revenue` |
-|----------------|-----------|----------------------------|--------------|
-| product_one | --- | --- | --- |
-| product_one | --- | --- | --- |
-| product_one | --- | --- | --- |
-| product_one | --- | --- | --- |
-| product_one | --- | --- | --- |
-| product_one | --- | --- | --- |
-| product_two | --- | --- | --- |
-| ... | ... | ... | ... |
